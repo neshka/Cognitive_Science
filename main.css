@@ -6,3 +6,10 @@ body
     font-family: 'Open Sans', sans-serif;
     font-size: 17px;
 }
+
+h1
+{
+	font-size: 44px;
+	font-weight: 700;
+
+}
